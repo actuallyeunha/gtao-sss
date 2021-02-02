@@ -18,5 +18,5 @@ Sometimes, we just want to play alone... That's why I created:
 pip install psutil rich
 ```
 
->Now you can download the .py file from the releases tab or through this link: [Latest Release](https://github.com/actuallyeunha/gta-sss/releases/latest/download/gta-sss.py "Download the latest release")
+>Now you can download the .py file from the releases tab or through this link: [Latest Release](https://github.com/actuallyeunha/gtao_ssession-script/releases/download/v1.0/gta-sss.py "Download the latest release")
 ><p>Double click it <b>with the game already open and connected</b> and that's it!</p>
