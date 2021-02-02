@@ -3,7 +3,8 @@ Sometimes, you don't want other people interfering with your stuff...<br>
 Sometimes, we just want to play alone... That's why I created:
 # GTA Online - Solo Session Script
 
-![Alt text](screenshot.png "Using the Windows Terminal Preview")
+![Alt text](screenshot.png "Using the Windows Terminal Preview")<br>
+<sub><sup>Screenshot taken using the windows terminal preview. Common cmd does not support colors nor custom characters</sup></sub>
 <p>Now you can do everything you would in a public session, but completely alone!</p>
 
 ---
