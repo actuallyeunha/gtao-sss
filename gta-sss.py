@@ -57,8 +57,8 @@ def main():
 if __name__ == '__main__':
 	clear()
 	console.rule("- [#de099e]GTA Online -", style=base_style)
-	console.print("[#de099e]Solo [#75d1ff]Public Session 1.0", justify='center')
+	console.print("[#de099e]Solo [#75d1ff]Session Script", justify='center')
 	console.rule("[#de099e]by: eunha", style=base_style)
-	with console.status("Working...", spinner='aesthetic', spinner_style="#09deda", speed=0.2):
+	with console.status("Waiting...", spinner='aesthetic', spinner_style="#09deda", speed=0.2):
 		main()
 	sleep(5)
